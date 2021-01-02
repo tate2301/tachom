@@ -78,6 +78,76 @@
     background-position:center;
 }
 
+.bg-postgresql{ 
+    background: url("../../images/assets/postgresql.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-webdev{ 
+    background: url("../../images/assets/artboard_1_copy_26.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-data{ 
+    background: url("../../images/assets/frame_3.7.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-webasm{ 
+    background: url("../../images/assets/drib_egh_webasm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-wordpress{ 
+    background: url("../../images/assets/Headless-Wordpress.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-hacker{ 
+    background: url("../../images/assets/hacker-knight.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-gatsby{ 
+    background: url("../../images/assets/gatsby.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-python{ 
+    background: url("../../images/assets/artboard_4.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+.bg-typescript{ 
+    background: url("../../images/assets/EGH_AWS-TS.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+}
+
+.bg-node{ 
+    background: url("../../images/assets/drib-egh-npmjs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
 .bg-hacker{ 
     background: url("../../images/assets/hacker-knight.webp");
     background-repeat: no-repeat;

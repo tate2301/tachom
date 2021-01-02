@@ -10,10 +10,7 @@ export default function Navbar() {
                 <a href="/blog">
                     Blog
                 </a>
-                <a href="/team">
-                    Team
-                </a>
-                <a href="/hire">
+                <a href="https://ojn1yd5k2bm.typeform.com/to/nA3tGPK2" target="_blank">
                     Hire
                 </a>
             </div>
