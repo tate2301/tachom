@@ -43,7 +43,7 @@ const IndexPage = () => {
 
           
 
-          <div className="py-12 p-4 lg:p-8 h-screen flex flex-wrap bg-manilla w-full mt-12">
+          <div className="py-12 p-4 lg:p-8 h-screen flex flex-wrap w-full mt-12">
             <div className="w-full h-full rounded-xl bg-white shadow p-8 lg:p-12 flex max-w-5xl flex mx-auto">
               <div className="m-auto flex-wrap flex text-center justify-center md:w-3/4">
                   <p className="text-3xl font-bold">
