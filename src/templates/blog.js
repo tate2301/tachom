@@ -18,7 +18,10 @@ export default function Template({
         <div className="blog-post-container py-12 max-w-3xl mx-auto">
           <div className="blog-post">
             <h1 className="text-4xl font-bold">{frontmatter.title}</h1>
-            <h2 className="text-2xl">{frontmatter.date}</h2>
+            <h2 className="text-gray-700">{frontmatter.date}</h2>
+            <p className="py-8">
+              <img src={frontmatter.thumbnail} alt={frontmatter.title} title={frontmatter.description}/>
+            </p>
             <div
               className="blog-post-content py-8 prose lg:prose-xl"
               dangerouslySetInnerHTML={{ __html: html }}
@@ -39,6 +42,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        thumbnail
+        description
       }
     }
   }

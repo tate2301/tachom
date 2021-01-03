@@ -1,5 +1,6 @@
 ---
 path: /blog/tesla-keycard
+thumbnail: /assets/image-5.jpg
 author: Tatenda Chris
 title: Tesla Key Card Protocol
 date: 2021-01-02T18:10:20.064Z

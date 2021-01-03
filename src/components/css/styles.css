@@ -9,7 +9,6 @@
 }
 
 .case-study-card{
-    height: 480px;
     position: relative;
 }
 
@@ -37,7 +36,7 @@
 }
 
 .bg-techicons{
-    background: url("../../images/assets/macos_apps__dbzjnrpghe4i_large.png");
+    /*background: url("../../images/assets/macos_apps__dbzjnrpghe4i_large.png");*/
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -160,6 +159,15 @@
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover;
+    background-image: url("/assets/image-1.jpg");
+}
+
+.black-tint{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.699);
+    top:0;
 }
 
 .bg-bigsur{

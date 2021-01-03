@@ -7,18 +7,19 @@ import WebDesignSection from './sections/web-design'
 export default function HeaderTop() {
 
     return (
-        <div className="w-full bg-black text-gray-200">
-            <div className='flex flex-col justify-between space-x-4 w-full header-top-banner'>
-                <div className="max-w-5xl h-screen w-full mx-auto px-8 lg:px-0">
+        <div className="w-full bg-black text-gray-200 relative">
+            <div className='flex flex-wrap justify-center w-full header-top-banner'>
+                <div className="black-tint w-full"></div>
+                <div className="max-w-5xl h-screen w-full mx-auto lg:px-0 relative">
                     <Navbar />
-                    <div className="h-full flex mx-auto py-4 md:py-8">
+                    <div className="h-full flex mx-auto py-4 px-4 md:px-0 md:py-8">
                         <div className="w-full lg:w-1/2 flex flex-wrap my-auto">
                             <p className="font-bold text-4xl md:text-6xl my-auto w-full pt-8">
                                 We integrate miracles and science
                             </p>
-                            <p className="md:text-xl w-full py-4 text-gray-300">
-                                In all our years of building awesome websites and apps it was never personal. 
-                                And we tell you now. What we are about to do, to your idea. You are going to 
+                            <p className="md:text-xl w-full py-4 text-gray-300 font-bold text-white">
+                                In all our years of building awesome brands, designing websites and deploying apps. It was never personal. 
+                                And we tell you now. What we are about to do, to your brilliant, disruptive idea. You are going to 
                                 love it very very much. 
                             </p>
                             <div className="py-8 w-full">

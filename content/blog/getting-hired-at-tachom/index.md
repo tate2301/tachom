@@ -1,5 +1,6 @@
 ---
 path: "/blog/covid-19-nhsx"
+thumbnail: /assets/image-7.jpg
 title: The NHSX Trace & Test Architectural Guidebook
 date: 2021-01-01T22:16:01.281Z
 description: This is the system repository for the NHS COVID-19 App System that uses the Google/Apple exposure notification API.

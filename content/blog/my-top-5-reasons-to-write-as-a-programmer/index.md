@@ -1,13 +1,11 @@
 ---
 path: /blog/my-top-5-reasons-to-write-as-a-programmer
 author: Tatenda Christopher Chinyamakobvu
+thumbnail: /assets/0_cwamcdin1dvsmvgr.jpg
 title: My Top 5 Reasons to Write as a Programmer
 date: 2021-01-02T12:41:55.185Z
 description: You don’t have to write 10,000 words every month or even write every day
 ---
-
-
-![Picture of a coder](0_cwamcdin1dvsmvgr.jpg "Photo by Glenn Carstens-Peters on Unsplash.")
 
 This post was originally published on [The Smart Coder](https://thesmartcoder.dev/5-great-reasons-to-write-as-a-programmer/).
 
