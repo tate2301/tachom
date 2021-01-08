@@ -180,6 +180,15 @@ const IndexPage = () => {
               </div>
         </div>
         {/* END: Blog Section */}
+
+        <div className="w-full">
+          <textarea 
+            className="lined w-full p-12 border border-gray-100" 
+            id="lined" 
+            rows="10" 
+            cols="60"
+          />
+        </div>
         
         <Footer/>
       </div>
